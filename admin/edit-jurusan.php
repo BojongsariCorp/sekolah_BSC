@@ -43,7 +43,7 @@ $p        = mysqli_fetch_object($jurusan);
                     </div>
 
                     <button type="button" class="btn" onclick="window.location = 'jurusan.php'">Kembali</button>
-                    <input type="submit" name="submit" value="Simpan" class="btn btn-blue">
+                    <input type="submit" name="submit" value="Simpan" class="btn btn-green">
 
                 </form>
 

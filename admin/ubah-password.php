@@ -28,7 +28,7 @@
                     </div>
 
 
-                    <input type="submit" name="submit" value="Ubah Password" class="btn btn-blue">
+                    <input type="submit" name="submit" value="Ubah Password" class="btn btn-green">
 
                 </form>
 

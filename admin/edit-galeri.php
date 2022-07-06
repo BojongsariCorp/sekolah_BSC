@@ -38,7 +38,7 @@ $p        = mysqli_fetch_object($galeri);
                     </div>
 
                     <button type="button" class="btn" onclick="window.location = 'galeri.php'">Kembali</button>
-                    <input type="submit" name="submit" value="Simpan" class="btn btn-blue">
+                    <input type="submit" name="submit" value="Simpan" class="btn btn-green">
 
                 </form>
 
